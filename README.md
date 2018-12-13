@@ -1,2 +1,1 @@
-# beautify-subset
-Provided for js use
+# vue-learn
